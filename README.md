@@ -1,4 +1,4 @@
 theme
 =====
 
-WordPress Leeds, WordPress Theme
+WordPress Leeds, WordPress Theme (work in progress)
